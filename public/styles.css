@@ -8,14 +8,13 @@ h1 {
 }
 
 #main {
-  color: red;
-  
+  color: green;
 }
 
 #headshot {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 10%;
   filter: grayscale(90%);
 }
