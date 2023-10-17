@@ -49,8 +49,8 @@ body {
   padding: 20px;
 }
 
-.headshot {
-  width: 100px;
+.card.headshot {
+  max-width: 100px;
 }
 
 /* Fake image */
