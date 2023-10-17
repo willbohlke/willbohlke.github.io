@@ -51,6 +51,7 @@ body {
 
 .card.headshot {
   max-width: 100px;
+  margin: auto;
 }
 
 /* Fake image */
