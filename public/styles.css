@@ -3,19 +3,18 @@
   background-color: gainsboro;
 }
 
+head p {
+  margin-left: auto;
+  margin-right: auto;
+}
 #main {
   margin-left: auto;
   margin-right: auto;
 }
 
 #main a {
-  margin-left: center;
-  margin-right: center;
-}
-
-#header {
-  margin: center;
-
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #headshot {
