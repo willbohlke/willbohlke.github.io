@@ -3,20 +3,24 @@
   background-color: gainsboro;
 }
 
-head p {
+.top {
   width: 300px;
   margin: auto;
   border: 1px solid red;
 }
 
-#main {
+.main {
   display: block;
   margin-left: auto;
   margin-right: auto;
+
+  border: 2px solid red;
+  border-radius: 5px;
+  
 }
 
 #headshot {
-  border: 1px black;
+  border: 10px solid black;
   display: block;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-left: auto;
