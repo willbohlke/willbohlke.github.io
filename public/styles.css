@@ -1,26 +1,21 @@
-* {
-  font: Arial;
-  background-color: gainsboro;
-}
-
 .top {
-  width: 300px;
+  width: auto;
   margin: auto;
-  border: 1px solid red;
+  border: 5px solid black;
 }
 
 .main {
-  display: block;
+  width: auto;
+  border: 5px grey;
+  border-radius: 5px;
+
   margin-left: auto;
   margin-right: auto;
-
-  border: 2px solid red;
-  border-radius: 5px;
-  
 }
 
 #headshot {
-  border: 10px solid black;
+  border-radius: 50%;
+  border: 5px black;
   display: block;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-left: auto;
