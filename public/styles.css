@@ -4,10 +4,11 @@
 }
 
 .top {
-  width: 50%;
-  margin: auto;
-  border: 5px solid lightslategray;
   font-family: Arial, Helvetica, sans-serif;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
 
 .top p {
@@ -16,18 +17,15 @@
 }
 
 .main {
-  width: 50%;
-  border: 5px solid lightslategray;
-  border-radius: 5px;
-
-  margin: auto;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
 
 #headshot {
-  width: 50%;
-  border-radius: 50%;
-  border: 10px solid black;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin: auto;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 300px;
+  border-radius: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
