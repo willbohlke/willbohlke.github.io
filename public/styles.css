@@ -6,17 +6,18 @@
 .top {
   width: 50%;
   margin: auto;
-  border: 5px solid black;
+  border: 5px solid lightslategray;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
 }
 
-p.top {
+.top p {
   font-size: large;
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+  color: purple;
 }
 
 .main {
   width: 50%;
-  border: 5px solid grey;
+  border: 5px solid lightslategray;
   border-radius: 5px;
 
   margin: auto;
