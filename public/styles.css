@@ -1,7 +1,16 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .top {
   width: 50%;
   margin: auto;
   border: 5px solid black;
+}
+
+p.top {
+  font-size: large;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
 }
 
 .main {
@@ -12,7 +21,10 @@
   margin: auto;
 }
 
+
+
 #headshot {
+  width: auto;
   border-radius: 50%;
   border: 5px solid black;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
