@@ -1,5 +1,6 @@
 * {
   font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
 
 .top {
@@ -20,8 +21,6 @@ p.top {
 
   margin: auto;
 }
-
-
 
 #headshot {
   width: auto;
