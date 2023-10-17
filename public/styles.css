@@ -12,9 +12,9 @@ h1 {
 }
 
 #headshot {
-  display: block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-left: auto;
   margin-right: auto;
   width: 10%;
-  filter: grayscale(90%);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
