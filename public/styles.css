@@ -9,11 +9,12 @@
 }
 
 #main a {
-  text-align: center;
+  margin-left: center;
+  margin-right: center;
 }
 
 #header {
-  text-align: center;
+  margin: center;
 
 }
 
