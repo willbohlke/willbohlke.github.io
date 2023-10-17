@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: Arial;
+  font-family: Helvetica;
   padding: 10px;
   background: #f1f1f1;
 }
@@ -47,6 +47,10 @@ body {
   width: 85%;
   background-color: #f1f1f1;
   padding: 20px;
+}
+
+.headshot {
+  width: 100px;
 }
 
 /* Fake image */
