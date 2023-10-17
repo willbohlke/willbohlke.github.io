@@ -4,15 +4,13 @@
 }
 
 head p {
-  margin-left: auto;
-  margin-right: auto;
-}
-#main {
+  display:block;
   margin-left: auto;
   margin-right: auto;
 }
 
-#main a {
+#main {
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
